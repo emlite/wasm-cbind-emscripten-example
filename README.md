@@ -1,8 +1,8 @@
-# wasmbind-example
+# wasm-cbind-example
 
-This is an example C++ repo which shows how you can use wasmbind to target web API via emscripten, wasmbind and emlite.
+This is an example C repo which shows how you can use wasm-cbind to target web API via emscripten, wasm-cbind and emlite.
 
-wasmbind is fetched in the CMake script using FetchContent.
+wasm-cbind is fetched in the CMake script using FetchContent.
 
 Do note that using npm is not strictly necessary, however it simplifies bundling emlite and managing its version.
 
